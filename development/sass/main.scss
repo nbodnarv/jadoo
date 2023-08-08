@@ -1,0 +1,12 @@
+//Global things
+@import "reset/normalize";
+@import "reset/reset";
+
+//Basic configuration
+@import "base/variables";
+@import "base/base";
+
+//Parts
+@import "parts/header";
+@import "parts/front-page";
+@import "parts/footer";

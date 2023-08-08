@@ -1,0 +1,28 @@
+{
+  "name": "gulp-template-for-html-css-sass-js",
+  "version": "0.0.1",
+  "description": "An automation template for HTML, CSS, Sass, and JavaScript.",
+  "homepage": "http://nazarbodnar.zzz.com.ua",
+  "devDependencies": {
+    "browser-sync": "^2.18.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^5.1.0",
+    "gulp-shell": "^0.5.2",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.11",
+    "sass": "^1.64.2"
+  },
+  "dependencies": {
+    "natives": "^1.1.6"
+  }
+}
